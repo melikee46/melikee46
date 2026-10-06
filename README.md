@@ -1,46 +1,60 @@
 <div align="center">
 
+<img src="./assets/garden-fairy.gif" width="180" alt="A tiny pixel fairy beneath a crescent moon, among sakura blossoms and a lantern">
+
 # Melike Arslan
 
-**Computer Engineer · Backend Developer · AI & Research**
+*computer engineer who collects ideas and turns them into code.*
 
-*Reliable systems. Curious questions.*
+**Backend · AI · Research**
 
-[Portfolio](https://melikearslan.vercel.app/tr) · [GitHub](https://github.com/melikee46)
-
-<sub>⌁ &nbsp; İstanbul, Türkiye &nbsp; · &nbsp; building at the edge of engineering and imagination &nbsp; ☾</sub>
+<sub>⌁ Istanbul, Türkiye &nbsp; · &nbsp; <a href="https://melikearslan.vercel.app/tr">portfolio</a> &nbsp; · &nbsp; <a href="https://github.com/melikee46">github</a> &nbsp; ☾</sub>
 
 </div>
 
----
+𓂃 ꕤ 𓂃
 
-### About
+### a little character card
 
-My path to computer engineering began in nursing, and it still shapes the question I bring to technology: **who does this help?** I build backend systems, enjoy the rigor of research, and look for thoughtful ways to put AI to work. Away from code, I'm drawn to art history and the stories held in the things people make.
+I took a winding path from nursing to Computer Engineering, and kept one question with me: **who might this help?** I like building thoughtful backend systems, following research questions, and exploring how AI and computer vision can be put to use. Art and history are never far from the ideas I collect.
 
-### In focus
+### currently wandering through...
 
 `Backend architecture` · `Cloud & distributed systems` · `AI engineering` · `Computer vision` · `Research` · `Technology for social impact`
 
-### Selected work
+### gathered in the garden
 
-- [**Philosophy Recommendation Backend**](https://github.com/melikee46/-philosophy-recommendation-backend) — a modular recommendation engine shaped around clean architecture.
-- [**Order Platform Microservices**](https://github.com/melikee46/order-platform-microservices) — an event-driven platform exploring service boundaries and messaging.
-- [**Art History Map**](https://github.com/melikee46/arthistorymap) — an interactive map of art movements, bringing history and software into the same frame.
+*Small builds, each grown from a different question.*
 
-### Research
+- **[Philosophy Recommendation Backend](https://github.com/melikee46/-philosophy-recommendation-backend)** — a modular recommendation engine shaped around Clean Architecture.  
+  <sub>Node.js · Express · TypeScript · Prisma · PostgreSQL</sub>
 
-Research at the **University of Padova** focused on vehicular communications, **Age of Information (AoI)**, and optimization. This work also led to an **IEEE publication**.
+- **[Order Platform Microservices](https://github.com/melikee46/order-platform-microservices)** — an event-driven order platform using database-per-service.  
+  <sub>.NET · RabbitMQ · MassTransit · EF Core · PostgreSQL</sub>
 
-### Tools I work with
+- **[TurkishTilee](https://github.com/melikee46/TurkishTilee)** — an image-processing project.  
+  <sub>Python</sub>
+
+- **[Art History Map](https://github.com/melikee46/arthistorymap)** — an interactive graph and timeline of art movements.  
+  <sub>ASP.NET Core · PostgreSQL · React · TypeScript · D3.js</sub>
+
+### little research notes
+
+<div align="center">
+<img src="./assets/research-notes.gif" width="72" alt="A tiny open research notebook beneath a crescent moon">
+</div>
+
+At the **University of Padova**, I worked on vehicular communications, **Age of Information (AoI)**, and optimization. This work resulted in an **IEEE publication**.
+
+### things in my toolkit
 
 - **Backend** — Node.js, Express, TypeScript · C#, ASP.NET Core
 - **Data** — PostgreSQL, Prisma, Entity Framework Core
-- **Cloud & distributed systems** — RabbitMQ, MassTransit
-- **AI & computer vision** — Python, image processing; currently exploring AI engineering and computer vision
-
-<br>
+- **Cloud & messaging** — RabbitMQ, MassTransit
+- **AI / vision** — Python, image processing
 
 <div align="center">
-<sub>☾ &nbsp; build with care · stay curious &nbsp; ✧</sub>
+<sub>𓂃 ࣪˖ ִֶָ☾˚₊‧</sub><br>
+<sub>keep building little things that matter.</sub><br>
+<sub>ꕤ &nbsp; a tiny garden visitor says goodbye &nbsp; ꕤ</sub>
 </div>
