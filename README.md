@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/garden-fairy.gif" width="180" alt="A tiny pixel fairy beneath a crescent moon, among sakura blossoms and a lantern">
+<a href="https://giphy.com/gifs/cnbYsaUxqhbEI"><img src="./assets/fairy-giphy.gif" width="150" alt="A fairy floating through a moonlit sky"></a>
 
 # Melike Arslan
 
@@ -56,5 +56,6 @@ At the **University of Padova**, I worked on vehicular communications, **Age of 
 <div align="center">
 <sub>𓂃 ࣪˖ ִֶָ☾˚₊‧</sub><br>
 <sub>keep building little things that matter.</sub><br>
+<a href="https://giphy.com/gifs/cat-computer-mcsPU3SkKrYDdW3aAU"><img src="./assets/cat-computer-giphy.gif" width="120" alt="A cat working at a computer"></a><br>
 <sub>ꕤ &nbsp; a tiny garden visitor says goodbye &nbsp; ꕤ</sub>
 </div>
