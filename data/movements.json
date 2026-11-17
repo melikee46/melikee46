@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Renaissance",
+    "period": "14th – 17th century",
+    "description": "Revived classical philosophy and proportion, introducing linear perspective and naturalistic observation to European art.",
+    "artist": "Leonardo da Vinci"
+  },
+  {
+    "name": "Baroque",
+    "period": "c. 1600 – 1750",
+    "description": "Used dramatic light and shadow, dynamic movement, and emotional intensity to evoke direct sensory response.",
+    "artist": "Caravaggio"
+  },
+  {
+    "name": "Ukiyo-e",
+    "period": "17th – 19th century",
+    "description": "Japanese woodblock prints and paintings depicting the fleeting world of urban life, landscapes, and theatre.",
+    "artist": "Katsushika Hokusai"
+  },
+  {
+    "name": "Impressionism",
+    "period": "c. 1860s – 1880s",
+    "description": "Captured fleeting sensations of natural light and everyday scenes through rapid, visible brushwork and unmixed color.",
+    "artist": "Claude Monet"
+  },
+  {
+    "name": "Post-Impressionism",
+    "period": "c. 1886 – 1905",
+    "description": "Extended Impressionism's vivid palette while introducing structured geometry, symbolic depth, and subjective expression.",
+    "artist": "Paul Cézanne"
+  },
+  {
+    "name": "Fauvism",
+    "period": "c. 1904 – 1908",
+    "description": "Liberated pure color from representational duty, prioritizing emotional vibrancy through raw, intense paintwork.",
+    "artist": "Henri Matisse"
+  },
+  {
+    "name": "Cubism",
+    "period": "c. 1907 – 1914",
+    "description": "Fractured objects into geometric facets to depict subjects from multiple viewpoints simultaneously.",
+    "artist": "Pablo Picasso"
+  },
+  {
+    "name": "Surrealism",
+    "period": "c. 1924 – 1940s",
+    "description": "Bridged conscious reality and the unconscious mind through dreamlike juxtapositions and automatism.",
+    "artist": "René Magritte"
+  },
+  {
+    "name": "Abstract Expressionism",
+    "period": "c. 1940s – 1950s",
+    "description": "Conveyed universal psychological themes through gestural mark-making, spontaneous action, and expansive color fields.",
+    "artist": "Mark Rothko"
+  },
+  {
+    "name": "Pop Art",
+    "period": "c. 1950s – 1960s",
+    "description": "Blurred the boundary between high art and consumer culture by repurposing mass media, comics, and commercial goods.",
+    "artist": "Andy Warhol"
+  },
+  {
+    "name": "Minimalism",
+    "period": "c. 1960s – 1970s",
+    "description": "Stripped artwork to its purest geometric forms and industrial materials, removing metaphor and artist gesture.",
+    "artist": "Donald Judd"
+  },
+  {
+    "name": "Bauhaus",
+    "period": "1919 – 1933",
+    "description": "Bridged fine arts, craft, and industrial technology under the ideal of unified, functional design.",
+    "artist": "Wassily Kandinsky"
+  },
+  {
+    "name": "Art Nouveau",
+    "period": "c. 1890 – 1910",
+    "description": "Drew inspiration from organic structures, featuring curvilinear whiplash rhythms and stylized floral motifs.",
+    "artist": "Gustav Klimt"
+  },
+  {
+    "name": "Mono-ha",
+    "period": "c. 1968 – 1970s",
+    "description": "Japanese contemporary movement exploring relations between unaltered natural and industrial materials in physical space.",
+    "artist": "Lee Ufan"
+  }
+]
