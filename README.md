@@ -44,11 +44,11 @@
 ### 🎨 Today's movement
 
 <!--MOVEMENT:START-->
-**Art Nouveau** · *c. 1890 – 1910*
+**Mono-ha** · *c. 1968 – 1970s*
 
-Drew inspiration from organic structures, featuring curvilinear whiplash rhythms and stylized floral motifs.
+Japanese contemporary movement exploring relations between unaltered natural and industrial materials in physical space.
 
-*Key figure:* Gustav Klimt
+*Key figure:* Lee Ufan
 <!--MOVEMENT:END-->
 
 ---
