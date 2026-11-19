@@ -44,11 +44,11 @@
 ### 🎨 Today's movement
 
 <!--MOVEMENT:START-->
-**Mono-ha** · *c. 1968 – 1970s*
+**Renaissance** · *14th – 17th century*
 
-Japanese contemporary movement exploring relations between unaltered natural and industrial materials in physical space.
+Revived classical philosophy and proportion, introducing linear perspective and naturalistic observation to European art.
 
-*Key figure:* Lee Ufan
+*Key figure:* Leonardo da Vinci
 <!--MOVEMENT:END-->
 
 ---
@@ -80,8 +80,8 @@ Japanese contemporary movement exploring relations between unaltered natural and
 - [melikee46](https://github.com/melikee46/melikee46)
 - [financo](https://github.com/melikee46/financo)
 - [art-history-map](https://github.com/melikee46/art-history-map)
-- [arthistorymap](https://github.com/melikee46/arthistorymap) — nteractive art movement graph and timeline built with ASP.NET Core, PostgreSQL, React, TypeScript, and D3.js.
 - [custom-jwt-auth-refresh-token](https://github.com/melikee46/custom-jwt-auth-refresh-token) — Custom JWT authentication system built from scratch with ASP.NET Core & React — refresh token rotation, reuse detection, and httpOnly cookie storage, no IdentityServer/OpenIddict.
+- [apollo-energy-management](https://github.com/melikee46/apollo-energy-management) — Modern, responsive marketing website for an industrial energy management company — built with Next.js 14, TypeScript, Tailwind CSS, and Framer Motion.
 <!--REPOS:END-->
 
 ---
