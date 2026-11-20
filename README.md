@@ -44,11 +44,11 @@
 ### 🎨 Today's movement
 
 <!--MOVEMENT:START-->
-**Renaissance** · *14th – 17th century*
+**Baroque** · *c. 1600 – 1750*
 
-Revived classical philosophy and proportion, introducing linear perspective and naturalistic observation to European art.
+Used dramatic light and shadow, dynamic movement, and emotional intensity to evoke direct sensory response.
 
-*Key figure:* Leonardo da Vinci
+*Key figure:* Caravaggio
 <!--MOVEMENT:END-->
 
 ---
