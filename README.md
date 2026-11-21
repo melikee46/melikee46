@@ -44,11 +44,11 @@
 ### 🎨 Today's movement
 
 <!--MOVEMENT:START-->
-**Baroque** · *c. 1600 – 1750*
+**Ukiyo-e** · *17th – 19th century*
 
-Used dramatic light and shadow, dynamic movement, and emotional intensity to evoke direct sensory response.
+Japanese woodblock prints and paintings depicting the fleeting world of urban life, landscapes, and theatre.
 
-*Key figure:* Caravaggio
+*Key figure:* Katsushika Hokusai
 <!--MOVEMENT:END-->
 
 ---
