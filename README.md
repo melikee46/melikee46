@@ -44,11 +44,11 @@
 ### 🎨 Today's movement
 
 <!--MOVEMENT:START-->
-**Ukiyo-e** · *17th – 19th century*
+**Impressionism** · *c. 1860s – 1880s*
 
-Japanese woodblock prints and paintings depicting the fleeting world of urban life, landscapes, and theatre.
+Captured fleeting sensations of natural light and everyday scenes through rapid, visible brushwork and unmixed color.
 
-*Key figure:* Katsushika Hokusai
+*Key figure:* Claude Monet
 <!--MOVEMENT:END-->
 
 ---
