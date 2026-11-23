@@ -44,11 +44,11 @@
 ### 🎨 Today's movement
 
 <!--MOVEMENT:START-->
-**Impressionism** · *c. 1860s – 1880s*
+**Post-Impressionism** · *c. 1886 – 1905*
 
-Captured fleeting sensations of natural light and everyday scenes through rapid, visible brushwork and unmixed color.
+Extended Impressionism's vivid palette while introducing structured geometry, symbolic depth, and subjective expression.
 
-*Key figure:* Claude Monet
+*Key figure:* Paul Cézanne
 <!--MOVEMENT:END-->
 
 ---
