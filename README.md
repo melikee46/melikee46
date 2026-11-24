@@ -44,11 +44,11 @@
 ### 🎨 Today's movement
 
 <!--MOVEMENT:START-->
-**Post-Impressionism** · *c. 1886 – 1905*
+**Fauvism** · *c. 1904 – 1908*
 
-Extended Impressionism's vivid palette while introducing structured geometry, symbolic depth, and subjective expression.
+Liberated pure color from representational duty, prioritizing emotional vibrancy through raw, intense paintwork.
 
-*Key figure:* Paul Cézanne
+*Key figure:* Henri Matisse
 <!--MOVEMENT:END-->
 
 ---
@@ -78,10 +78,10 @@ Extended Impressionism's vivid palette while introducing structured geometry, sy
 
 <!--REPOS:START-->
 - [melikee46](https://github.com/melikee46/melikee46)
+- [kutlama](https://github.com/melikee46/kutlama)
 - [financo](https://github.com/melikee46/financo)
 - [art-history-map](https://github.com/melikee46/art-history-map)
 - [custom-jwt-auth-refresh-token](https://github.com/melikee46/custom-jwt-auth-refresh-token) — Custom JWT authentication system built from scratch with ASP.NET Core & React — refresh token rotation, reuse detection, and httpOnly cookie storage, no IdentityServer/OpenIddict.
-- [apollo-energy-management](https://github.com/melikee46/apollo-energy-management) — Modern, responsive marketing website for an industrial energy management company — built with Next.js 14, TypeScript, Tailwind CSS, and Framer Motion.
 <!--REPOS:END-->
 
 ---
