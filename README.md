@@ -44,11 +44,11 @@
 ### 🎨 Today's movement
 
 <!--MOVEMENT:START-->
-**Fauvism** · *c. 1904 – 1908*
+**Cubism** · *c. 1907 – 1914*
 
-Liberated pure color from representational duty, prioritizing emotional vibrancy through raw, intense paintwork.
+Fractured objects into geometric facets to depict subjects from multiple viewpoints simultaneously.
 
-*Key figure:* Henri Matisse
+*Key figure:* Pablo Picasso
 <!--MOVEMENT:END-->
 
 ---
