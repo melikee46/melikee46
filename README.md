@@ -44,11 +44,11 @@
 ### 🎨 Today's movement
 
 <!--MOVEMENT:START-->
-**Cubism** · *c. 1907 – 1914*
+**Surrealism** · *c. 1924 – 1940s*
 
-Fractured objects into geometric facets to depict subjects from multiple viewpoints simultaneously.
+Bridged conscious reality and the unconscious mind through dreamlike juxtapositions and automatism.
 
-*Key figure:* Pablo Picasso
+*Key figure:* René Magritte
 <!--MOVEMENT:END-->
 
 ---
