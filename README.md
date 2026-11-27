@@ -44,11 +44,11 @@
 ### 🎨 Today's movement
 
 <!--MOVEMENT:START-->
-**Surrealism** · *c. 1924 – 1940s*
+**Abstract Expressionism** · *c. 1940s – 1950s*
 
-Bridged conscious reality and the unconscious mind through dreamlike juxtapositions and automatism.
+Conveyed universal psychological themes through gestural mark-making, spontaneous action, and expansive color fields.
 
-*Key figure:* René Magritte
+*Key figure:* Mark Rothko
 <!--MOVEMENT:END-->
 
 ---
@@ -78,10 +78,10 @@ Bridged conscious reality and the unconscious mind through dreamlike juxtapositi
 
 <!--REPOS:START-->
 - [melikee46](https://github.com/melikee46/melikee46)
-- [kutlama](https://github.com/melikee46/kutlama)
+- [staleness-minimization-sensing](https://github.com/melikee46/staleness-minimization-sensing)
 - [financo](https://github.com/melikee46/financo)
+- [kutlama](https://github.com/melikee46/kutlama)
 - [art-history-map](https://github.com/melikee46/art-history-map)
-- [custom-jwt-auth-refresh-token](https://github.com/melikee46/custom-jwt-auth-refresh-token) — Custom JWT authentication system built from scratch with ASP.NET Core & React — refresh token rotation, reuse detection, and httpOnly cookie storage, no IdentityServer/OpenIddict.
 <!--REPOS:END-->
 
 ---
