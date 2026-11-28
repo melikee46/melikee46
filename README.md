@@ -44,11 +44,11 @@
 ### 🎨 Today's movement
 
 <!--MOVEMENT:START-->
-**Abstract Expressionism** · *c. 1940s – 1950s*
+**Pop Art** · *c. 1950s – 1960s*
 
-Conveyed universal psychological themes through gestural mark-making, spontaneous action, and expansive color fields.
+Blurred the boundary between high art and consumer culture by repurposing mass media, comics, and commercial goods.
 
-*Key figure:* Mark Rothko
+*Key figure:* Andy Warhol
 <!--MOVEMENT:END-->
 
 ---
